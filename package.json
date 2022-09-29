@@ -1,0 +1,21 @@
+{
+  "name": "Working_with_NodeJS_ExpressJS",
+  "version": "1.0.0",
+  "description": "---Trabajando con NodeJs y ExpressJS---",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoArbini/Working_with_NodeJS_ExpressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoArbini/Working_with_NodeJS_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/MateoArbini/Working_with_NodeJS_ExpressJS#readme"
+}

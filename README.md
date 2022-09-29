@@ -1,4 +1,5 @@
 ---Trabajando con NodeJs y ExpressJS---
+**El cometido de este ejercicio, es crear una API con NodeJS y ExpressJS**
 
 Siguiendo tutorial de curso https://www.youtube.com/watch?v=o85OkeVtm7k 
 
@@ -24,7 +25,5 @@ Esta herramienta es recomendable NO INSTALARLA DE MANERA GLOBAL. Es recomendable
     ./node_modules/.bin/nodemon index.js
 
 Y de esta manera, no tendremos que bajar y levantar el servidor cada vez que querramos hacer un cambio.
-
-
 
 
